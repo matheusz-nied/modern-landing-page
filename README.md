@@ -11,5 +11,13 @@ Durante o projeto, adquiri habilidades em:
 - Componentes funcionais React e estrutura de arquivos
 - Utilização do Tailwind CSS para estilização
 - Manipulação de propriedades CSS, como flexbox e gradientes
-- Implementação de animações e media queries
-- Implantação eficiente do projeto em servidores rápidos com a Hostinger
+- Implementação de media queries
+ 
+
+
+## Visualisação do projeto
+
+[Link do projeto]()
+
+
+![Screenshot-image](./public//hoobank.png)
